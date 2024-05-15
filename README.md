@@ -91,6 +91,7 @@ To engage with the project's simulation and plotting functionalities, execute th
     ```bash
     python function_simulation.py
     ```
+Please note that the simulation's execution time may vary depending on your hardware specifications. It could take several minutes to complete.
 
   - To visualize frequency responses, execute:
     ```bash
